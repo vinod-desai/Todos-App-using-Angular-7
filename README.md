@@ -1,5 +1,9 @@
 # Todos
 
+Todos Application using Angular 7 and Bootstrap.
+
+The Todos are stored in browser local storage space.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
 ## Development server
